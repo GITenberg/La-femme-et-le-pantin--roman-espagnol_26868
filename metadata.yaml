@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1554
     wikipedia: http://en.wikipedia.org/wiki/Pierre_Lou%C3%BFs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26868#La-femme-et-le-pantin--roman-espagnol
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2008-10-10'
 gutenberg_type: Text
